@@ -1,4 +1,4 @@
-package challenge;
+package phoneCameraAppExample;
 
 public abstract class PhoneCameraApp {
 	ShareStrategy shareStrategy;

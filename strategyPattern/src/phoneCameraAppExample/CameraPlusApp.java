@@ -1,4 +1,4 @@
-package challenge;
+package phoneCameraAppExample;
 
 public class CameraPlusApp extends PhoneCameraApp {
 	public void edit() {

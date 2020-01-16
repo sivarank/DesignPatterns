@@ -1,8 +1,8 @@
-package challenge;
+package phoneCameraAppExample;
 
 import java.util.Scanner;
 
-public class PhotoWithPhone {
+public class PhotoWithPhoneMain {
  
 	public static void main(String[] args) {
  

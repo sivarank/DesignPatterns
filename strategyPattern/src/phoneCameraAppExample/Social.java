@@ -1,4 +1,4 @@
-package challenge;
+package phoneCameraAppExample;
 
 public class Social implements ShareStrategy {
 	public void share() {

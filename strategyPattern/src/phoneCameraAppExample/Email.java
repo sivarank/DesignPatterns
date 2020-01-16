@@ -1,4 +1,4 @@
-package challenge;
+package phoneCameraAppExample;
 
 public class Email implements ShareStrategy {
 	public void share() {
